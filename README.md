@@ -1,2 +1,2 @@
-# Decentralized AI
-#### Given repo contains demos of Decentralized AI project under AI/ML team.
+# Decentralized AI [Project Demos]
+#### This repo contains working demos of Decentralized AI project as part of AI/ML team.
